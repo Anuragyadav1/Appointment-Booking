@@ -345,3 +345,21 @@ If you encounter any issues or have questions:
 ---
 
 **Built with ❤️ for modern web development**
+
+## Submission Checklist
+
+Submission Checklist (paste this in your README)
+
+● Frontend URL: @https://appointment-booking-frontend-g5af.onrender.com/
+
+● API URL: @https://appointment-booking-backend-qcgs.onrender.com
+
+● Patient: patient@example.com / Passw0rd!
+
+● Admin: admin@example.com / Passw0rd!
+
+● Repo URL: @https://github.com/Anuragyadav1/Appointment-Booking
+
+● Run locally: README steps verified
+
+● Postman/curl steps included
